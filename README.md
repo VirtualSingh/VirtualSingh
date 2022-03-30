@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pushpendra Singh
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning react
+- 🌱 Currently exploring Angular and it's ecosystem
 
 
 <!---
